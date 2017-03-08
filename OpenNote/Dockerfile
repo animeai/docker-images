@@ -7,4 +7,4 @@ LABEL org.freenas.interactive="true"			\
       org.freenas.web-ui-port="7890" 			\
       org.freenas.web-ui-path="" 			\
       org.freenas.port-mappings="7890:80/tcp,7891:433/tcp"	\
-      org.freenas.autostart="true" 			\
+      org.freenas.autostart="true"
